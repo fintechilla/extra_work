@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Jun 20 01:49:10 EDT 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Devs-noGithub\\Eclipse\\spring-mvc-demo-act\\WebContent\\WEB-INF\\lib\\spring-web-5.2.7.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.7.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Devs-noGithub\\Eclipse\\spring-mvc-demo-act\\WebContent\\WEB-INF\\lib\\spring-web-5.2.7.RELEASE.jar=WEB-INF/lib/spring-web-5.2.7.RELEASE.jar

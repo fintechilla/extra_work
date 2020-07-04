@@ -1,0 +1,10 @@
+127.0.0.1 - - [20/Jun/2020:01:47:22 -0400] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Jun/2020:01:47:22 -0400] "GET /spring-mvc-demo-act/WEB-INF/view/main-menu.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [20/Jun/2020:01:47:33 -0400] "GET /spring-mvc-demo-act/ HTTP/1.1" 200 232
+0:0:0:0:0:0:0:1 - - [20/Jun/2020:01:47:36 -0400] "GET /spring-mvc-demo-act/student/showForm HTTP/1.1" 500 6097
+127.0.0.1 - - [20/Jun/2020:01:49:15 -0400] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [20/Jun/2020:01:49:16 -0400] "GET /spring-mvc-demo-act/WEB-INF/view/student-form.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [20/Jun/2020:01:49:24 -0400] "GET /spring-mvc-demo-act/ HTTP/1.1" 200 228
+0:0:0:0:0:0:0:1 - - [20/Jun/2020:01:49:27 -0400] "GET /spring-mvc-demo-act/student/showForm HTTP/1.1" 500 6087
+0:0:0:0:0:0:0:1 - - [20/Jun/2020:01:50:18 -0400] "GET /spring-mvc-demo-act/student/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [20/Jun/2020:01:50:25 -0400] "GET /spring-mvc-demo-act/ HTTP/1.1" 200 228

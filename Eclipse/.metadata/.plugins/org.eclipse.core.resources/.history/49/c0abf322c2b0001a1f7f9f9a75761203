@@ -1,0 +1,23 @@
+package com.luv2code.springdemo;
+
+public class SwimCoach implements Coach {
+	
+	private HappyFortuneService happyFortuneService;
+	
+	public SwimCoach(HappyFortuneService happyFortuneService) {
+		this.happyFortuneService = happyFortuneService;
+	}
+
+	@Override
+	public String getDailyWorkout() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public String getFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
