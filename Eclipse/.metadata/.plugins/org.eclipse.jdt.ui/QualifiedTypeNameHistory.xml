@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ControllerAdvice"/>
-<fullyQualifiedTypeName name="org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ExceptionHandler"/>
-<fullyQualifiedTypeName name="java.lang.Exception"/>
-<fullyQualifiedTypeName name="org.springframework.web.context.request.WebRequest"/>
 <fullyQualifiedTypeName name="com.in28minutes.rest.webservices.restfulwebservics.exceptions.ErrorDetails"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
@@ -40,7 +35,6 @@
 <fullyQualifiedTypeName name="springfox.documentation.swagger2.annotations.EnableSwagger2WebMvc"/>
 <fullyQualifiedTypeName name="springfox.documentation.service.ApiInfo"/>
 <fullyQualifiedTypeName name="springfox.documentation.service.Contact"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="springfox.documentation.service.VendorExtension"/>
 <fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="java.util.HashSet"/>
@@ -48,7 +42,6 @@
 <fullyQualifiedTypeName name="io.swagger.annotations.ApiModelProperty"/>
 <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.in28minutes.rest.webservices.restfulwebservics.filtering.SomeBean"/>
 <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ser.impl.SimpleBeanPropertyFilter"/>
 <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ser.impl.SimpleFilterProvider"/>
@@ -60,4 +53,11 @@
 <fullyQualifiedTypeName name="com.in28minutes.rest.webservices.restfulwebservics.versioning.PersonV2"/>
 <fullyQualifiedTypeName name="com.in28minutes.rest.webservices.restfulwebservics.versioning.Name"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
+<fullyQualifiedTypeName name="javax.naming.spi.ResolveResult"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
 </qualifiedTypeNameHistroy>

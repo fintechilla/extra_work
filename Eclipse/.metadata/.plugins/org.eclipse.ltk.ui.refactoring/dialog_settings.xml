@@ -9,4 +9,7 @@
 		<item key="declarevariableTypeVar" value="false"/>
 		<item key="replaceOccurrences" value="true"/>
 	</section>
+	<section name="RefactoringPropertyPage">
+		<item key="org.eclipse.ltk.ui.refactoring.sortRefactorings" value="true"/>
+	</section>
 </section>
