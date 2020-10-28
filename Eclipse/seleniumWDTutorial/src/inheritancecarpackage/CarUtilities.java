@@ -1,4 +1,4 @@
-package inheritancepackage;
+package inheritancecarpackage;
 
 public class CarUtilities {
 

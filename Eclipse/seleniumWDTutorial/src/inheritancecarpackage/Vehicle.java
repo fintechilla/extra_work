@@ -1,4 +1,4 @@
-package inheritancepackage;
+package inheritancecarpackage;
 
 public class Vehicle {
 	private String brand;//VW, BMW, Dodge, Beneteau
